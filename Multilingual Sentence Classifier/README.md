@@ -1,5 +1,5 @@
 ---
-title: Bangla Sentence Classifier
+title: Multilingual Sentence Classifier
 emoji: 🐠
 colorFrom: red
 colorTo: indigo
