@@ -1,6 +1,3 @@
 # ML, DL & NLP Projects
 
-This repository contains my machine learning (ML), deep learning (DL), and natural language processing (NLP) projects. Projects include experiments, implementations, and code examples for learning and reference purposes.
-
-## Usage
-Explore the projects, run the code, and use them as reference or learning material.
+A collection of projects I worked on while learning Machine Learning (ML), Deep Learning (DL), and Natural Language Processing (NLP). These include experiments, implementations, and code I built to understand concepts better.
