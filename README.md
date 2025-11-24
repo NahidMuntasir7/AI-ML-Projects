@@ -15,4 +15,4 @@ Some of the projects included are:
 - **NLP2: QA BERT Fine-Tuning on SQuAD Dataset** – Fine-tuned BERT for extractive question answering.  
 - **Multilingual Sentence Classifier** – Classified sentences from multiple languages using transformer-based models.  
 - **CV1: Object Tracking & Heatmap Visualization** – Object tracking and visualization in video data.
-- - **Comprehensive Strength Prediction of UHPC** – Predicted compressive strength of ultra-high performance concrete using ML models.  
+- **Comprehensive Strength Prediction of UHPC** – Predicted compressive strength of ultra-high performance concrete using ML models.  
