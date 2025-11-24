@@ -3,7 +3,7 @@
 A collection of projects I did while learning Machine Learning, Deep Learning, and Natural Language Processing.  
 Includes experiments, implementations, and code developed to practice and understand concepts better. 🚀
 
---
+---
 
 Some of the projects included are:  
 - **DL1: MNIST Digit Classifier** – Build and train a neural network to recognize handwritten digits.  
