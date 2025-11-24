@@ -1,6 +1,6 @@
 # ML | DL | NLP Projects  🤖
 
-A collection of projects I did while learning Machine Learning, Deep Learning, and Natural Language Processing.  
+This repository contains projects I did while learning Machine Learning, Deep Learning, and Natural Language Processing.  
 Includes experiments, implementations, and code developed to practice and understand concepts better. 🚀
 
 ---
@@ -14,4 +14,5 @@ Some of the projects included are:
 - **NLP1: TF-IDF vs Word2Vec vs BERT Embedding (IMDB Sentiment Analysis)** – Compared text representation methods for sentiment classification.  
 - **NLP2: QA BERT Fine-Tuning on SQuAD Dataset** – Fine-tuned BERT for extractive question answering.  
 - **Multilingual Sentence Classifier** – Classified sentences from multiple languages using transformer-based models.  
-- **CV1: Object Tracking & Heatmap Visualization** – Object tracking and visualization in video data.  
+- **CV1: Object Tracking & Heatmap Visualization** – Object tracking and visualization in video data.
+- - **Comprehensive Strength Prediction of UHPC** – Predicted compressive strength of ultra-high performance concrete using ML models.  
