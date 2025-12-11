@@ -8,7 +8,7 @@ Includes experiments, implementations, and code developed to practice and unders
 Some of the projects included are:  
 - **DL1: MNIST Digit Classifier** – Built and trained a neural network to recognize handwritten digits.  
 - **DL2: Image Classification (NN vs CNN)** – Compared the performance of fully connected neural networks and convolutional neural networks.
-- **ML0: Data Mining Lab Project** – Applied classification models to predict hypertension risk.  
+- **ML0: Data Mining Lab Project** – Applied classification models to predict hypertension risk and then applied Apriori algorithm to mine frequent rules.  
 - **ML1: Regression on Housing Dataset** – Applied regression models to predict housing prices.  
 - **ML2: Diabetes Detection System** – Developed a system to predict diabetes using ML classification models.  
 - **ML3: Clustering on Iris Dataset** – Experimented with different clustering techniques on the Iris dataset.  
